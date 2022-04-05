@@ -24,14 +24,14 @@ We also cache the BSB list, user searches in distributed cache for better perfor
 We can use Kibana, Prometheus etc
 
 ### Technologies used
-Java
-Springboot
-Postgres
-ActiveMQ
-Redis distributed cache
-API Gateway
-Elastic search Kibana
-Prometheus
+1. Java
+2. Springboot
+3. Postgres
+4. ActiveMQ
+5. Redis distributed cache
+6. API Gateway
+7. Elastic search Kibana
+8. Prometheus
 
 
 ### Assumptions
