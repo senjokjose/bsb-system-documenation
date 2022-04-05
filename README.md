@@ -1,4 +1,4 @@
-# bsb-system-documenation
+# BSB System overview
 Please check the diagram for a high level overview
 https://github.com/senjokjose/bsb-system-documenation/blob/master/BSB%20service%20c4%20diagram.pdf
 
